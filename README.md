@@ -12,7 +12,7 @@ A fully responsive portfolio website showcasing my skills and projects. 🚀
 
 🌟 Showcase Projects: The portfolio effectively highlights my projects and achievements, allowing visitors to explore my work in an organized and visually appealing manner.
 
-🚀 Deployment The portfolio is deployed on Netlify. Visit the live version here : https://portofolio97.netlify.app/.
+🚀 Deployment The portfolio is deployed on Netlify. Visit the live version here : https://personal-portfolio97.netlify.app/
 
 🌟 🤝 Contributing Contributions are welcome! 🎉 If you spot any issues or have suggestions for improvements, please feel free to submit a pull request.
 
